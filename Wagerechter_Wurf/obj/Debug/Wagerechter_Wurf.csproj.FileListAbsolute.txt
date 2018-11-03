@@ -1,0 +1,10 @@
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\bin\Debug\Wagerechter_Wurf.exe.config
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\bin\Debug\Wagerechter_Wurf.exe
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\bin\Debug\Wagerechter_Wurf.pdb
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\obj\Debug\Wagerechter_Wurf.csprojAssemblyReference.cache
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\obj\Debug\Wagerechter_Wurf.Form1.resources
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\obj\Debug\Wagerechter_Wurf.Properties.Resources.resources
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\obj\Debug\Wagerechter_Wurf.csproj.GenerateResource.cache
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\obj\Debug\Wagerechter_Wurf.csproj.CoreCompileInputs.cache
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\obj\Debug\Wagerechter_Wurf.exe
+c:\users\vmadmin\documents\visual studio 2017\Projects\Wagerechter_Wurf\Wagerechter_Wurf\obj\Debug\Wagerechter_Wurf.pdb

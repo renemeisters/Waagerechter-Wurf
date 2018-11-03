@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wagerechter_Wurf", "Wagerechter_Wurf\Wagerechter_Wurf.csproj", "{E2BCBA66-3BB6-42D0-82B6-6D39349E7488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BCBA66-3BB6-42D0-82B6-6D39349E7488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BCBA66-3BB6-42D0-82B6-6D39349E7488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BCBA66-3BB6-42D0-82B6-6D39349E7488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BCBA66-3BB6-42D0-82B6-6D39349E7488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226CF71C-5013-4961-AD15-DAF2CBEFD821}
+	EndGlobalSection
+EndGlobal
